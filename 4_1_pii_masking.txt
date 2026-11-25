@@ -1,0 +1,2 @@
+Original: My Aadhaar is 1234 5678 9012. Call me at 9876543210 or email citizen@example.com.
+Masked:   My Aadhaar is [AADHAAR REDACTED]. Call me at [PHONE REDACTED] or email [EMAIL REDACTED].
