@@ -1,0 +1,22 @@
+Dataset shape: (500, 7)
+
+Structured columns: ['Complaint_ID', 'State', 'Date', 'Department', 'Status', 'Resolution_Days']
+Unstructured columns: ['Complaint_Description']
+
+Data types:
+ Complaint_ID             object
+State                    object
+Date                     object
+Department               object
+Status                   object
+Resolution_Days           int64
+Complaint_Description    object
+dtype: object
+
+First five records:
+ Complaint_ID          State       Date          Department      Status  Resolution_Days                                                                                          Complaint_Description
+      JS0001      Karnataka 2026-01-28            Railways     Pending               10                     Train was delayed. I request the concerned officer to take action. Reference number 10000.
+      JS0002    Maharashtra 2025-11-12         Electricity     Pending               12 Power supply is interrupted. I have submitted several requests but received no update. Reference number 10001.
+      JS0003      Karnataka 2026-05-19             Banking In Progress                8 Unauthorized debit appeared. I have submitted several requests but received no update. Reference number 10002.
+      JS0004 Andhra Pradesh 2025-08-30 Public Distribution    Resolved               11             Fair price shop is closed. I request the concerned officer to take action. Reference number 10003.
+      JS0005     Tamil Nadu 2026-06-17  Municipal Services     Pending               17      Garbage has not been collected. This has caused serious difficulty for my family. Reference number 10004.

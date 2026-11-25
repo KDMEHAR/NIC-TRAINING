@@ -1,0 +1,13 @@
+Missing values after cleaning:
+ Complaint_ID             0
+State                    0
+Date                     0
+Department               0
+Status                   0
+Resolution_Days          0
+Complaint_Description    0
+
+Cleaned dataset saved to: /mnt/data/Jan_Samadhan_GitHub_Project/outputs/cleaned_complaints.csv
+
+Example cleaned complaint:
+ Train was delayed. I request the concerned officer to take action. Reference number 10000.
