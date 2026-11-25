@@ -1,9 +1,0 @@
-Citizen query: My pension payment has not arrived. What details should I submit and when will I get an acknowledgment?
-
-Retrieved SOP context:
- Pension grievance: The applicant should provide the pension reference number and the month for which payment is missing. The grievance cell acknowledges receipt within three working days.
-
-Grounded answer:
-According to the provided SOP, submit your pension reference number and the month for which payment is missing. The grievance cell acknowledges receipt within three working days.
-
-RAG note: In a production system, pass only the retrieved passage as context to the LLM and require citations to that passage.
