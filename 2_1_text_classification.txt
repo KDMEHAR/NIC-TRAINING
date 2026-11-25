@@ -1,5 +1,0 @@
-Training records: 398
-Testing records: 100
-Sample complaint: My electricity bill is incorrect and power supply is interrupted.
-Predicted department: Electricity
-Model saved to outputs/department_router.joblib
